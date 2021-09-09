@@ -7,6 +7,9 @@
  Mais do que hospedagem VPS. O DigitalOcean Droplets é uma plataforma de computação escalonável com recursos adicionais de armazenamento, segurança e monitoramento para executar aplicativos de produção com facilidade.
  Em resumo, cada droplet é um novo servidor virtual privado, no qual somente você possui acesso. Todos os recursos selecionados durante sua criação estão disponíveis para que você, e somente você, os explore da melhor forma possível.
 
+## Pilha LAMP
+Linux, Apache, MySQL, PHP. 
+
 ## VPS (Virtual Private Server)
 
 VPS é a sigla de Virtual Private Server, ou servidor virtual privado. São servidores virtualizados em máquinas físicas e que apresentam pe conerformance superior à oferecida pelos serviços tradicionais de hospedagem. Eles entregam um bom desempenho a um preço mais acessível que o dos servidores dedicados.
