@@ -1,4 +1,5 @@
-# Digital Ocean IaaS
+# Criação de um servidor ubuntu na DigitalOcean e instalação e configuração da pilha LAMP 
+## Digital Ocean IaaS 
  A DigitalOcean fornece aos desenvolvedores serviços em nuvem que ajudam a implantar e dimensionar aplicativos executados simultaneamente em vários computadores.
 
  A infraestrutura como serviço (IaaS), também conhecida como serviços de infraestrutura em nuvem, é uma forma de cloud computing em que a infraestrutura de TI é fornecida aos usuários por meio da internet. Ela costuma ser associada à computação serverless.
@@ -8,7 +9,7 @@
 
 ## VPS (Virtual Private Server)
 
-VPS é a sigla de Virtual Private Server, ou servidor virtual privado. São servidores virtualizados em máquinas físicas e que apresentam performance superior à oferecida pelos serviços tradicionais de hospedagem. Eles entregam um bom desempenho a um preço mais acessível que o dos servidores dedicados.
+VPS é a sigla de Virtual Private Server, ou servidor virtual privado. São servidores virtualizados em máquinas físicas e que apresentam pe conerformance superior à oferecida pelos serviços tradicionais de hospedagem. Eles entregam um bom desempenho a um preço mais acessível que o dos servidores dedicados.
 
 Um servidor é um computador no qual o seu web host armazena os arquivos e os bancos de dados necessários para o seu site. Quando um visitante quer acessar o seu site, o navegador deles envia uma solicitação para o seu servidor, e então transfere os dados necessários através da internet.
 ## SSH (Secure Shell)
